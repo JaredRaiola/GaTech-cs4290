@@ -1,0 +1,13 @@
+Branch Predictor Settings
+Predictor Type: L
+# Entries: 64
+# Bits Per Counter: 1
+# Bits Per History: 4
+
+Branch Predictor Statistics
+# Branches: 18
+# Predicted Taken: 15
+# Predicted Not Taken: 3
+# Correct: 14
+Misprediction Rate: 0.222222
+Storage overhead: 1280 bits
